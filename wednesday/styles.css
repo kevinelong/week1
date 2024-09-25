@@ -1,14 +1,14 @@
-body{
+body {
     background-color: bisque;
     font-family: sans-serif;
     color: darkred;
 }
 
-.current{
-    color:red;
+.current {
+    color: red;
 }
 
-a{
+a {
     text-decoration: none;
     background-color: white;
     display: inline-block;
