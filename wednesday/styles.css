@@ -1,0 +1,18 @@
+body{
+    background-color: bisque;
+    font-family: sans-serif;
+    color: darkred;
+}
+
+.current{
+    color:red;
+}
+
+a{
+    text-decoration: none;
+    background-color: white;
+    display: inline-block;
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+    box-shadow: 1rem 1rem 1rem #00000088;
+}
